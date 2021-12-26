@@ -17,7 +17,7 @@
 # Note
 以下を参考にさせていただきました。
 
-・マウスをぷるぷる動かしてスクリーンセーバを抑制するアプリ(https://qiita.com/ms22912/items/90ca200305d1fea656a4)
+・[マウスをぷるぷる動かしてスクリーンセーバを抑制するアプリ](https://qiita.com/ms22912/items/90ca200305d1fea656a4)
 
 ・https://github.com/ms-ogawara/ScreensaverDeter
 
