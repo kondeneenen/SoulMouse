@@ -21,8 +21,7 @@
 
 ・https://github.com/ms-ogawara/ScreensaverDeter
 
-
-#Author
+# Author
 作成者：konden
 
 E-Mail：kondeneinenkouzaihou@gmail.com
