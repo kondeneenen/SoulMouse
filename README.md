@@ -5,6 +5,8 @@
 
 それぞれの時間はランダム（配布版では「待ち」時間はもう少し長め）
 
+人がいなくても、人のぬくもりを感じるアプリになりました。
+
 # Demo
 ![GhostMouse-2](https://user-images.githubusercontent.com/71972294/147397685-b0e024c6-506b-47a1-a8ef-326bbaa0a29a.gif)
 
@@ -25,6 +27,8 @@
 作成者：konden
 
 E-Mail：kondeneinenkouzaihou@gmail.com
+
+ページ：https://kondeneenen.com/soulmouse/
 
 # Lisense
 "SoulMouse" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
