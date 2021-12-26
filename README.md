@@ -21,6 +21,7 @@
 
 ・https://github.com/ms-ogawara/ScreensaverDeter
 
+
 #Author
 作成者：konden
 
